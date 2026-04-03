@@ -27,18 +27,17 @@ The app allows users to explore different **course categories** and access learn
 
 ## 📂 Project Structure
 
-
+```bash
 E-learning_Android_App/
-│── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/ # Application logic
-│ │ │ ├── res/ # Layouts, drawables, values
-│ │ │ └── AndroidManifest.xml
-│── gradle/
-│── build.gradle
-│── settings.gradle
-
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/        # Application logic
+│   │   │   ├── res/         # Layouts, drawables, values
+│   │   │   └── AndroidManifest.xml
+├── gradle/
+├── build.gradle
+├── settings.gradle
 
 ---
 
