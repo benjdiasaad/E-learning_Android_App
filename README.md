@@ -38,7 +38,7 @@ E-learning_Android_App/
 ├── gradle/
 ├── build.gradle
 ├── settings.gradle
-
+```
 ---
 
 ## ⚙️ Installation & Setup
